@@ -1,0 +1,12 @@
+       
+        #image-container {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        #display-image {
+            max-width: 70%;
+            height: auto;
+            border: 1px solid #ddd;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
